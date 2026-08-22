@@ -1,0 +1,6 @@
+{
+  "name": "MY LINK",
+  "description": "Personal contact & social media directory with Google Drive/Sheets cloud sync, category filtering, and instant deep-link actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
